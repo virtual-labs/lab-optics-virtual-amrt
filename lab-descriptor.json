@@ -15,56 +15,56 @@
     "name": "Resolving power of a prism",
     "short-name": "resolving-power-prism",
     "repo": "https://github.com/virtual-labs/exp-resolving-power-prism-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Angle of the prism using Spectrometer",
     "short-name": "angle-prism-using-spectrometer",
     "repo": "https://github.com/virtual-labs/exp-angle-prism-using-spectrometer-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Spectrometer i-i' curve",
     "short-name": "spectrometer-i-i-curve",
     "repo": "https://github.com/virtual-labs/exp-spectrometer-i-i-curve-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Spectrometer: i-d curve",
     "short-name": "spectrometer-i-d-curve",
     "repo": "https://github.com/virtual-labs/exp-spectrometer-i-d-curve-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Spectrometer- Determination of Cauchy's constants",
     "short-name": "spectrometer-determination-cauchys-constants",
     "repo": "https://github.com/virtual-labs/exp-spectrometer-determination-cauchys-constants-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Spectrometer, Refractive Index of the material of a prism",
     "short-name": "spectrometer-refractive-index-material-prism",
     "repo": "https://github.com/virtual-labs/exp-spectrometer-refractive-index-material-prism-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Spectrometer Dispersive power of a prism",
     "short-name": "spectrometer-dispersive-power-prism",
     "repo": "https://github.com/virtual-labs/exp-spectrometer-dispersive-power-prism-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Diffraction Grating",
     "short-name": "diffraction-grating",
     "repo": "https://github.com/virtual-labs/exp-diffraction-grating-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
